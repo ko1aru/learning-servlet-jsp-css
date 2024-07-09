@@ -23,6 +23,7 @@
 		border-style: solid;
 		border-width: 1px;
 		border-radius: 12px;
+		padding: 4px;
 	}
 	
 	.loginForm {
